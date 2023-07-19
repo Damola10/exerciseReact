@@ -1,0 +1,9 @@
+*{
+  background-color: grey;
+}
+
+
+.btn {
+  background-color: aqua;
+  gap:  3rem;
+}
